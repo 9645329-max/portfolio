@@ -2,7 +2,7 @@
 
 ## Projects for Term 1
 
-### SpaceGame
+### HAMPSTER SHIP!
 
 Detailed description.
 
