@@ -1,5 +1,8 @@
 # Game Development 1 Portfolio | Torr Hardin | 9645329@graniteschools.org
 
+## Industry Certifications
+* [Game Development Certificate](images/Torr Hardin_Game Development Fundamentals 1_12172025.pdf)
+
 ## Projects for Term 1
 
 ### HAMPSTER SHIP!
