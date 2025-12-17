@@ -1,4 +1,4 @@
-# Torr Hardin's Game Portfolio
+# Game Development 1 Portfolio | Torr Hardin | 9645329@graniteschools.org
 
 ## Projects for Term 1
 
