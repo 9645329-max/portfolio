@@ -1,7 +1,7 @@
 # Game Development 1 Portfolio | Torr Hardin | 9645329@graniteschools.org
 
 ## Industry Certifications
-* [Game Development Certificate](images/Torr Hardin_Game Development Fundamentals 1_12172025.pdf)
+* [Game Development Certificate](https://github.com/9645329-max/portfolio/blob/main/images/Torr%20Hardin_Game%20Development%20Fundamentals%201_12172025.pdf)
 
 ## Projects for Term 1
 
