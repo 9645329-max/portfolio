@@ -19,3 +19,7 @@ Hamster Ship is a fast-paced space shooter made in Processing, where you control
   ## Projects For Term 2
 
   ### Prison Escape
+
+  Prison escape is a game where you try to escape from a prison whilst avoiding the guards who patrol   around the prison. You will have to collect objects to escape in different spots around the prison.
+
+  <img src="https://github.com/9645329-max/portfolio/blob/main/images/Prison%20Escape%20Game.png" width="800" />
