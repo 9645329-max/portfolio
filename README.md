@@ -24,6 +24,7 @@ Hamster Ship is a fast-paced space shooter made in Processing, where you control
 
   <img src="https://github.com/9645329-max/portfolio/blob/main/images/Prison%20Escape%20Game.png" width="800" />
 
-  * [Windows](https://github.com/9645329-max/portfolio/tree/main/src/windows-amd64)
+
+* [Windows](https://github.com/9645329-max/portfolio/tree/main/src/windows-amd64)
 * [MacOS](https://github.com/9645329-max/portfolio/tree/main/src/macos-aarch64)
 * [Source Code](https://github.com/9645329-max/portfolio/tree/main/src/Prison_Escape.pde)
